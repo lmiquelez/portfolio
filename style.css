@@ -16,3 +16,31 @@
     align-items: center;
     justify-content: center;
 }
+
+
+div.noticia {
+    width: 80%;
+    margin: 75px auto;
+    background-color: rgb(247, 247, 245) ;
+    padding: 15px;
+    text-align: center;
+    
+  }
+
+  div.noticia.aside.p {
+      align-items: center;
+  }
+  
+  div.noticia img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  div.noticia img.derecha {
+    float: right;
+    margin-left: 15px;
+  }
+  
+  div.reset {
+    clear: both;
+  }
